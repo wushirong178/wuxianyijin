@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp -r app/node_modules .)",
+      "Bash(cp -r app/public .)"
+    ]
+  }
+}
